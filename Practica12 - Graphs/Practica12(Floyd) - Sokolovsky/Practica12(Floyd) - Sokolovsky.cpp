@@ -45,15 +45,6 @@ void floydWarshall(int graph[][V])
 
 int main()
 {
-    /*
-            10
-       (0)------->(3)
-        |         /|\
-      5 |          |
-        |          | 1
-       \|/         |
-       (1)------->(2)
-            3           */
     int graph[V][V] = { {0,   23,  12, INF,   INF, INF, INF},   //1 строка
                         {23, 0,   25, INF,   22, INF, INF, 35}, //2
                         {12, 25, 0,   18,   INF, INF, INF,INF}, //3
