@@ -1,7 +1,8 @@
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Huffman {
+public class
+Huffman {
 
     // Функция для вывода
     public static void printCode(HuffmanNode root, String s)

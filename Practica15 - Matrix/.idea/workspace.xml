@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9458e9f-261f-42d0-b7a8-89c745c4cb06" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c9458e9f-261f-42d0-b7a8-89c745c4cb06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Practica10 - AVLTree/out/production/Practica10 - AVLTree/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica10 - AVLTree/out/production/Practica10 - AVLTree/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica10 - AVLTree/out/production/Practica10 - AVLTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica10 - AVLTree/out/production/Practica10 - AVLTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica11 - HashV2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica11 - HashV2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica13 - Graphs/Practica12(Floyd) - Sokolovsky/.vs/Practica12(Floyd) - Sokolovsky/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica13 - Graphs/Practica12(Floyd) - Sokolovsky/.vs/Practica12(Floyd) - Sokolovsky/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica13 - Graphs/Practica12(Floyd) - Sokolovsky/.vs/Practica12(Floyd) - Sokolovsky/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica13 - Graphs/Practica12(Floyd) - Sokolovsky/.vs/Practica12(Floyd) - Sokolovsky/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica13 - Graphs/Practica12(Floyd) - Sokolovsky/.vs/Practica12(Floyd) - Sokolovsky/v16/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica14 - Huffman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica14 - Huffman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica14 - Huffman/out/production/Practica14 - Huffman/Huffman.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica14 - Huffman/out/production/Practica14 - Huffman/Huffman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practica14 - Huffman/src/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica14 - Huffman/src/Huffman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practica15 - Matrix/Counter.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +77,7 @@
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectId" id="1mOEoDna26bTxONOrFmZhzBH5Eq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -93,20 +104,17 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java2" />
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="MatrixMultiplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -123,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
@@ -130,6 +151,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -140,6 +162,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607637411504</updated>
+      <workItem from="1609356414378" duration="1316000" />
+      <workItem from="1613568397338" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="3241">
       <created>1607644191496</created>
@@ -181,6 +205,9 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3241" />
